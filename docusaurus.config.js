@@ -10,9 +10,13 @@ const config = {
   tagline: 'Apuntes de Desarrollo Full-Stack',
   favicon: 'img/favicon.ico',
 
+ 
   // URL de producción (ajusta cuando despliegues en GitHub Pages / Vercel)
-  url: 'https://tu-usuario.github.io',
-  baseUrl: '/cuaderno-tecnico/',
+url: 'https://yuranimar.github.io',
+baseUrl: '/cuaderno-tecnico-react/',
+
+organizationName: 'yuranimar',
+projectName: 'cuaderno-tecnico-react',
 
   // Si un enlace roto rompe el build, lo avisamos
   onBrokenLinks: 'warn',
@@ -85,7 +89,7 @@ const config = {
             label: '📚 Apuntes',
           },
           {
-            href: 'https://github.com/tu-usuario/cuaderno-tecnico',
+           href: 'https://github.com/yuranimar/cuaderno-tecnico-react',
             label: 'GitHub',
             position: 'right',
           },
